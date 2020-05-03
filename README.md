@@ -3,6 +3,10 @@
 
 # 연세대학교 원주캠퍼스 2020년 데이터과학 공부모임
 
+## 발표 자료
+
+- 김지훈 - [Windows에 linux 설치 하기](https://hoon427.tistory.com/103)
+
 ## 참가 멤버 명단
 
 | 이름   | 학번 | 사용 언어 | 구글 계정 연동 이메일  | 페이스북 프로필                                                 | 블로그                                   | 깃헙                                     | 캐글                                         |
@@ -18,11 +22,6 @@
 | 김원석 | 12   |           | onestonk@gmail.com     | -                                                               | [Link](https://medium.com/@onestonk)     | [Link](https://github.com/kimonesuk)     |                                              |
 | 장용주 | 14   | Python    | lolhi@yonsei.ac.kr     | [Link](https://www.facebook.com/lolhoho)                        | [Link](https://medium.com/@yongju1264)   | [Link](https://github.com/lolhi)         |                                              |
 | 김동현 | 15   | C++       | zoown13@gmail.com      |                                                                 | [Link](http://naver.me/GiUT6imp)          | [Link](https://github.com/zoown13)       |                                              |
-
-## 발표 자료
-
-- 김지훈 - [Windows에 linux 설치 하기](https://hoon427.tistory.com/103)
-
 
 
 ----
