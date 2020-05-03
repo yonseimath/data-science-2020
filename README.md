@@ -3,23 +3,23 @@
 
 # 연세대학교 원주캠퍼스 2020년 데이터과학 공부모임
 
+| 이름   | 학번 | 전공                 | 사용 언어                          | 구글 계정 연동 이메일  | 페이스북 프로필                                         | 블로그                           | 깃헙                             | 캐글                                 |
+|--------|------|----------------------|------------------------------------|------------------------|---------------------------------------------------------|----------------------------------|----------------------------------|--------------------------------------|
+| 이행수 | 9    | 수학                 |                                    | dlgodtnzzang@gmail.com | https://www.facebook.com/dlgodtnzzang                   | https://www.medium.com/@hslee09  |                                  |                                      |
+| 이태규 | 12   | 수학                 | Python                             | ljjytg@gmail.com       |                                                         |                                  | https://github.com/romanticq     |                                      |
+| 최의용 | 7    | 수학                 | R                                  | shjj08@gmail.com       | https://www.facebook.com/shjj08                         | https://unfinishedgod.github.io/ | https://github.com/Unfinishedgod | https://www.kaggle.com/unfinishedgod |
+| 배정빈 | 19   | 수학                 |                                    | super33367@gmail.com   | https://www.facebook.com/profile.php?id=100008672081503 | https://blog.naver.com/bjb0706   |                                  |                                      |
+| 김지훈 | 10   | 수학                 | R, Python                          | ikaros977@gmail.com    | -                                                       | https://hoon427.tistory.com/     | https://github.com/Hoon0427      |                                      |
+| 이준용 | 15   | 컴퓨터정보통신공학부 | Python        | ljy41775@gmail.com     | https://www.facebook.com/profile.php?id=100009082745602 | -                                | https://github.com/dlwnsdyd94    | https://www.kaggle.com/ljy1237       |
+| 조환희 | 11   | 수학                 |                                    | w0w6w4@gmail.com       | https://www.facebook.com/profile.php?id=100008169189403 |                                  | https://github.com/ChoHwanhee    |                                      |
+| 김민주 | 17   | 컴퓨터정보통신공학부 |                                    | arinkimxs2@gmail.com   |                                                         |                                  |                                  |                                      |
+| 김원석 | 12   | 수학                 |                                    | onestonk@gmail.com     | -                                                       | https://medium.com/@onestonk     | https://github.com/kimonesuk     |                                      |
+| 장용주 | 14   | 컴퓨터정보통신공학부 | Python                             | lolhi@yonsei.ac.kr     | https://www.facebook.com/lolhoho                        | https://medium.com/@yongju1264   | https://github.com/lolhi         |                                      |
+| 김동현 | 15   | 컴퓨터정보통신공학부 | C++                                | zoown13@gmail.com      |                                                         | http://naver.me/GiUT6imp         | github.com/zoown13               |                                      |
 
 ## 발표 자료
 
 - 김지훈 - [Windows에 linux 설치 하기](https://hoon427.tistory.com/103)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
