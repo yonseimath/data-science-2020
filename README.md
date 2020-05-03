@@ -16,7 +16,7 @@
 | 김민주 | 17   |           | arinkimxs2@gmail.com   |                                                                 |                                          |                                          |                                              |
 | 김원석 | 12   |           | onestonk@gmail.com     | -                                                               | [Link](https://medium.com/@onestonk)     | [Link](https://github.com/kimonesuk)     |                                              |
 | 장용주 | 14   | Python    | lolhi@yonsei.ac.kr     | [Link](https://www.facebook.com/lolhoho)                        | [Link](https://medium.com/@yongju1264)   | [Link](https://github.com/lolhi)         |                                              |
-| 김동현 | 15   | C++       | zoown13@gmail.com      |                                                                 | [Link]http://naver.me/GiUT6imp)          | [Link](https://github.com/zoown13)       |                                              |
+| 김동현 | 15   | C++       | zoown13@gmail.com      |                                                                 | [Link](http://naver.me/GiUT6imp)          | [Link](https://github.com/zoown13)       |                                              |
 
 ## 발표 자료
 
