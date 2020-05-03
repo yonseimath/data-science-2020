@@ -4,7 +4,9 @@
 # 연세대학교 원주캠퍼스 2020년 데이터과학 공부모임
 
 
+## 발표 자료
 
+[김지훈 - Windows에 linux 설치 하기](https://hoon427.tistory.com/103)
 
 
 
