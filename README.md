@@ -6,7 +6,7 @@
 
 ## 발표 자료
 
-[김지훈 - Windows에 linux 설치 하기](https://hoon427.tistory.com/103)
+- 김지훈 - [Windows에 linux 설치 하기](https://hoon427.tistory.com/103)
 
 
 
