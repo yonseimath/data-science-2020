@@ -6,6 +6,7 @@
 ## 발표 자료
 
 - 김지훈 - [Windows에 linux 설치 하기](https://hoon427.tistory.com/103)
+- 이행수 - [WSL에 주피터 노트북 설치](https://docs.google.com/presentation/d/1ifa13w6jajYzsl7YPrNi302ZCReHwnbB-A-6bhlY2Zs/edit#slide=id.p3)
 
 ## 참가 멤버 명단
 
