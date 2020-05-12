@@ -5,9 +5,11 @@
 
 ## 발표 자료
 
-- 김지훈 - [Windows에 linux 설치 하기](https://hoon427.tistory.com/103)
-- 김지훈 - [git 가이드](https://docs.google.com/presentation/d/1XC35m3EHPFy69sbpMPGr2VuzmI2P6LLT/edit#slide=id.p1)
-- 이행수 - [Wsl 파이썬 설치 하기](https://docs.google.com/presentation/d/1ifa13w6jajYzsl7YPrNi302ZCReHwnbB-A-6bhlY2Zs/edit#slide=id.p1)
+### 2020-05-03
+ - 김지훈 - [Windows에 linux 설치 하기](https://hoon427.tistory.com/103)
+### 2020-05-10 
+ - 김지훈 - [git 가이드](https://docs.google.com/presentation/d/1XC35m3EHPFy69sbpMPGr2VuzmI2P6LLT/edit#slide=id.p1)
+ - 이행수 - [Wsl 파이썬 설치 하기](https://docs.google.com/presentation/d/1ifa13w6jajYzsl7YPrNi302ZCReHwnbB-A-6bhlY2Zs/edit#slide=id.p1)
 
 ## 참가 멤버 명단
 
