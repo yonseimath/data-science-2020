@@ -10,6 +10,9 @@
 ### 2020-05-10 
  - 김지훈 - [git 가이드](https://docs.google.com/presentation/d/1XC35m3EHPFy69sbpMPGr2VuzmI2P6LLT/edit#slide=id.p1)
  - 이행수 - [Wsl 파이썬 설치 하기](https://docs.google.com/presentation/d/1ifa13w6jajYzsl7YPrNi302ZCReHwnbB-A-6bhlY2Zs/edit#slide=id.p1)
+### 2020-05-17
+ - 최의용 - [캐글 입문 가이드](https://unfinishedgod.github.io/docs/kaggle/Kaggle_beginner_guide/kaggle_beginner_guide.html)
+ - 이행수 - [제약회사 면접 후기](https://docs.google.com/presentation/d/1Q5IHNYmqh7NgqxFAgFcPxq6Yfo_mHkShlSY6hPupBT8/edit#slide=id.p1)
 
 ## 참가 멤버 명단
 
