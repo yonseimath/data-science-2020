@@ -16,19 +16,20 @@
 
 ## 참가 멤버 명단
 
-| 이름   | 구글 계정 연동 이메일  | 페이스북 프로필                                                 | 블로그                                   | 깃헙                                     | 캐글                                         |
-|--------|------------------------|-----------------------------------------------------------------|------------------------------------------|------------------------------------------|----------------------------------------------|
-| 이행수 | dlgodtnzzang@gmail.com | [Link](https://www.facebook.com/dlgodtnzzang)                   | [Link](https://www.medium.com/@hslee09)  |                                          |                                              |
-| 이태규 | ljjytg@gmail.com       |                                                                 |                                          | [Link](https://github.com/romanticq)     |                                              |
-| 최의용 | shjj08@gmail.com       | [Link](https://www.facebook.com/shjj08)                         | [Link](https://unfinishedgod.github.io/) | [Link](https://github.com/Unfinishedgod) | [Link](https://www.kaggle.com/unfinishedgod) |
-| 배정빈 | super33367@gmail.com   | [Link](https://www.facebook.com/profile.php?id=100008672081503) | [Link](https://blog.naver.com/bjb0706)   |                                          |                                              |
-| 김지훈 | ikaros977@gmail.com    | -                                                               | [Link](https://hoon427.tistory.com/)     | [Link](https://github.com/Hoon0427)      |                                              |
-| 이준용 | ljy41775@gmail.com     | [Link](https://www.facebook.com/profile.php?id=100009082745602) | -                                        | [Link](https://github.com/dlwnsdyd94)    | [Link](https://www.kaggle.com/ljy1237)       |
-| 조환희 | w0w6w4@gmail.com       | [Link](https://www.facebook.com/profile.php?id=100008169189403) |                                          | [Link](https://github.com/ChoHwanhee)    |                                              |
-| 김민주 | arinkimxs2@gmail.com   |                                                                 |                                          |                                          |                                              |
-| 김원석 | onestonk@gmail.com     | -                                                               | [Link](https://medium.com/@onestonk)     | [Link](https://github.com/kimonesuk)     |                                              |
-| 장용주 | lolhi@yonsei.ac.kr     | [Link](https://www.facebook.com/lolhoho)                        | [Link](https://medium.com/@yongju1264)   | [Link](https://github.com/lolhi)         |                                              |
-| 김동현 | zoown13@gmail.com      |                                                                 | [Link](http://naver.me/GiUT6imp)         | [Link](https://github.com/zoown13)       |                                              |
+| 	이름	| 	구글 계정 연동 이메일	|	페이스북 프로필	| 	블로그	|	깃헙	|	캐글	| 
+|---|---|---|---|---|---|												
+|	이행수	|	dlgodtnzzang@gmail.com	|	[LINK](https://www.facebook.com/dlgodtnzzang)	|	[LINK](https://www.medium.com/@hslee09)	|		|		|
+|	이태규	|	ljjytg@gmail.com	|		|	[LINK](https://romanticq.github.io/)	|	[LINK](https://github.com/romanticq)	|	[LINK](https://www.kaggle.com/leetaegyu)	|
+|	최의용	|	shjj08@gmail.com	|	[LINK](https://www.facebook.com/shjj08)	|	[LINK](https://unfinishedgod.github.io/)	|	[LINK](https://github.com/Unfinishedgod)	|	[LINK](https://www.kaggle.com/unfinishedgod)	|
+|	배정빈	|	super33367@gmail.com	|	[LINK](https://www.facebook.com/profile.php?id=100008672081503)	|		|	[LINK](https://github.com/Baejeongbin)	|	[LINK](https://www.kaggle.com/baejeongbin)	|
+|	김지훈	|	ikaros977@gmail.com	|		|	[LINK](https://hoon427.tistory.com/)	|	[LINK](https://github.com/Hoon0427)	|		|
+|	이준용	|	ljy41775@gmail.com	|	[LINK](https://www.facebook.com/profile.php?id=100009082745602)	|		|	[LINK](https://github.com/dlwnsdyd94)	|	[LINK](https://www.kaggle.com/ljy1237)	|
+|	조환희	|	w0w6w4@gmail.com	|	[LINK](https://www.facebook.com/profile.php?id=100008169189403)	|		|	[LINK](https://github.com/ChoHwanhee)	|		|
+|	김민주	|	arinkimxs2@gmail.com	|		|		|		|		|
+|	김원석	|	onestonk@gmail.com	|	[LINK](.)	|	[LINK](https://medium.com/@onestonk)	|	[LINK](https://github.com/kimonesuk)	|	[LINK](https://www.kaggle.com/onestonkim)	|
+|	장용주	|	lolhi@yonsei.ac.kr	|	[LINK](https://www.facebook.com/lolhoho)	|	[LINK](https://medium.com/@yongju1264)	|	[LINK](https://github.com/lolhi)	|		|
+|	김동현	|	zoown13@gmail.com	|		|	[LINK](http://naver.me/GiUT6imp)	|	[LINK](github.com/zoown13)	|		|
+|	김예나	|	hffuf7799@gmail.com	|		|		|		|	[LINK](https://www.kaggle.com/yenakim02)	|
 
 ----
 
