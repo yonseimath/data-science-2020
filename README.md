@@ -14,6 +14,9 @@
  - 최의용 - [캐글 입문 가이드](https://unfinishedgod.github.io/docs/kaggle/Kaggle_beginner_guide/kaggle_beginner_guide.html)
  - 이행수 - [제약회사 면접 후기](https://docs.google.com/presentation/d/1Q5IHNYmqh7NgqxFAgFcPxq6Yfo_mHkShlSY6hPupBT8/edit#slide=id.p1)
 
+### 2020-05-24
+ - 이태규 - [캐글 생존자 예측 모델 만들기](https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic/)
+
 ## 참가 멤버 명단
 
 | 	이름	| 	구글 계정 연동 이메일	|	페이스북 프로필	| 	블로그	|	깃헙	|	캐글	| 
