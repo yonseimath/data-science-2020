@@ -16,6 +16,9 @@
 
 ### 2020-05-24
  - 이태규 - [캐글 생존자 예측 모델 만들기](https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic/)
+ 
+### 2020-05-31
+ - 이준용 - [핸즈온 머신러닝 Chapter 1](https://drive.google.com/drive/folders/0AI9pW2FM__1eUk9PVA)
 
 ## 참가 멤버 명단
 
