@@ -22,6 +22,9 @@
  
 ### 2020-06-07
  - 이태규 - [Roc Curve에 대해](https://www.youtube.com/watch?v=TF1PJAndiNM&feature=youtu.be)
+ 
+### 2020-06-14
+ - 이태규 - [Titanic with hands on ML](https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap2-titanic/)
 
 ## 참가 멤버 명단
 
