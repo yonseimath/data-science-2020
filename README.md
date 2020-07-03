@@ -42,6 +42,7 @@
 |	장용주	|	lolhi@yonsei.ac.kr	|	[LINK](https://www.facebook.com/lolhoho)	|	[LINK](https://medium.com/@yongju1264)	|	[LINK](https://github.com/lolhi)	|		|
 |	김동현	|	zoown13@gmail.com	|		|	[LINK](http://naver.me/GiUT6imp)	|	[LINK](github.com/zoown13)	|		|
 |	김예나	|	hffuf7799@gmail.com	|		|		|		|	[LINK](https://www.kaggle.com/yenakim02)	|
+|	조익노	|	dlrsh741@gmail.com	|		|		|	[LINK](https://github.com/iknocho)	|		|
 
 ----
 
