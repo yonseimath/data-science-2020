@@ -25,6 +25,9 @@
  
 ### 2020-06-14
  - 이태규 - [Titanic with hands on ML](https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap2-titanic/)
+ 
+### 2020-07-05
+ - 최의용 - [Handson ml Chapter 3](https://github.com/Unfinishedgod/hansonml/blob/master/handson_ml_chapter3.ipynb)
 
 ## 참가 멤버 명단
 
