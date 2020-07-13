@@ -24,10 +24,13 @@
  - 이태규 - [Roc Curve에 대해](https://www.youtube.com/watch?v=TF1PJAndiNM&feature=youtu.be)
  
 ### 2020-06-14
- - 이태규 - [Titanic with hands on ML](https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap2-titanic/)
+ - 이태규 - [핸즈온 머신러닝 Chapter 2](https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap2-titanic/)
  
 ### 2020-07-05
- - 최의용 - [Handson ml Chapter 3](https://github.com/Unfinishedgod/hansonml/blob/master/handson_ml_chapter3.ipynb)
+ - 최의용 - [핸즈온 머신러닝 Chapter 3](https://github.com/Unfinishedgod/hansonml/blob/master/handson_ml_chapter3.ipynb)
+
+### 2020-07-12
+ - 조환희 - [핸즈온 머신러닝 Chapter 4](https://github.com/ChoHwanhee/DataAnalysis/blob/master/Part4.ipynb)
 
 ## 참가 멤버 명단
 
