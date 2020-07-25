@@ -31,6 +31,10 @@
 
 ### 2020-07-12
  - 조환희 - [핸즈온 머신러닝 Chapter 4](https://github.com/ChoHwanhee/DataAnalysis/blob/master/Part4.ipynb)
+ 
+### 2020-07-19
+- 김예나 - [핸즈온 머신러닝 Chapter 5](https://docs.google.com/presentation/d/19cIBLDqzEvzfQ9e7Y2zoesGmDdRfPAnM4tqTu1xH1LA/edit?usp=sharing)
+- 이태규 - [핸즈온 머신러닝 Chapter 6](https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap6-titanic/)
 
 ## 참가 멤버 명단
 
