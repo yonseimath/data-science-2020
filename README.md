@@ -39,6 +39,8 @@ test 이태규
 - 김예나 - [핸즈온 머신러닝 Chapter 5](https://docs.google.com/presentation/d/19cIBLDqzEvzfQ9e7Y2zoesGmDdRfPAnM4tqTu1xH1LA/edit?usp=sharing)
 - 이태규 - [핸즈온 머신러닝 Chapter 6](https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap6-titanic/)
 
+### 2020-08-01
+- 조익노 - 파이썬으로 크롤링하여 MYSQL (dbms)에 데이터 수집
 ## 참가 멤버 명단
 
 | 	이름	| 	구글 계정 연동 이메일	|	페이스북 프로필	| 	블로그	|	깃헙	|	캐글	| 
