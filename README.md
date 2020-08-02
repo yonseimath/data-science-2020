@@ -40,6 +40,7 @@
 ### 2020-08-01
 - 조익노 - [파이썬으로 크롤링하여 MYSQL (dbms)에 데이터 수집](https://medium.com/@dlrsh741/pymysql%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-mysql%EC%97%90-%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0-97c94b406ad3
 )
+- 최의용 - [R에서 DB 사용(Sqlite)](https://unfinishedgod.netlify.app/2020/07/24/r%EC%97%90%EC%84%9C-db-%EC%82%AC%EC%9A%A9sqlite/)
 ## 참가 멤버 명단
 
 | 	이름	| 	구글 계정 연동 이메일	|	페이스북 프로필	| 	블로그	|	깃헙	|	캐글	| 
