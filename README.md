@@ -47,6 +47,7 @@
 
 ### 2020-08-16
 - 조환희 - [핸즈온 머신러닝 Chapter 8](https://github.com/ChoHwanhee/DataAnalysis/blob/master/Part8.ipynb)
+- 이태규 - [정규방정식(normal equation)](https://youtu.be/5WvjUjnP26E)
 
 
 
