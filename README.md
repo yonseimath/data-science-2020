@@ -45,6 +45,10 @@
 ### 2020-08-09
 - 이태규 - [핸즈온 머신러닝 Chapter 7](https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap7-titanic/)
 
+### 2020-08-16
+- 조환희 - [핸즈온 머신러닝 Chapter 8](https://github.com/ChoHwanhee/DataAnalysis/blob/master/Part8.ipynb)
+
+
 
 ## 참가 멤버 명단
 
